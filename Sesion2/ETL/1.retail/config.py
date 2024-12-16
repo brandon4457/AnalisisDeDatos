@@ -5,7 +5,7 @@
 ##Este diccionario contiene la configuración para conectarse a una base de datos, probablemente 
 # utilizando MySQL (por el puerto 3310 y el usuario root).
 DATABASE_CONFIG = {
-    'host': '10.0.1.168',
+    'host': '10.0.2.74',
     'port': 3310,
     'user': 'root',
     'password': 'root',
@@ -16,7 +16,7 @@ DATABASE_CONFIG = {
 #  del sistema de base de datos retail_db. Estos archivos suelen usarse para importar datos a la 
 # base de datos o para realizar análisis sin conexión.
  
-CVS_FILES = {
+CSV_FILES = {
     'customers': 'data_retail/customers',
     'departments': 'data_retail/departments',
     'categories': 'data_retail/categories',

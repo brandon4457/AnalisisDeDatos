@@ -1,0 +1,20 @@
+2024-12-16 19:56:01,138 - INFO - Conexion a la base de datos fue exitosa
+2024-12-16 19:56:01,143 - INFO - Archivo data_retail/departments leido correctamente
+2024-12-16 19:56:01,144 - INFO - Archivo data_retail/categories leido correctamente
+2024-12-16 19:56:01,164 - INFO - Archivo data_retail/customers leido correctamente
+2024-12-16 19:56:01,176 - INFO - Archivo data_retail/products leido correctamente
+2024-12-16 19:56:01,177 - WARNING - hay product_category_id que no se encuentran en el DataFrame
+2024-12-16 20:10:59,053 - INFO - Conexion a la base de datos fue exitosa
+2024-12-16 20:10:59,055 - INFO - Archivo data_retail/departments leido correctamente
+2024-12-16 20:10:59,056 - INFO - Archivo data_retail/categories leido correctamente
+2024-12-16 20:10:59,068 - INFO - Archivo data_retail/customers leido correctamente
+2024-12-16 20:10:59,076 - INFO - Archivo data_retail/products leido correctamente
+2024-12-16 20:10:59,104 - INFO - Archivo data_retail/orders leido correctamente
+2024-12-16 20:10:59,168 - INFO - Archivo data_retail/order_items leido correctamente
+2024-12-16 20:10:59,198 - INFO - Datos cargados correctamente en la tabla departments
+2024-12-16 20:10:59,204 - INFO - Datos cargados correctamente en la tabla categories
+2024-12-16 20:10:59,748 - INFO - Datos cargados correctamente en la tabla customers
+2024-12-16 20:10:59,846 - INFO - Datos cargados correctamente en la tabla products
+2024-12-16 20:11:01,712 - INFO - Datos cargados correctamente en la tabla orders
+2024-12-16 20:11:07,056 - INFO - Datos cargados correctamente en la tabla order_items
+2024-12-16 20:11:07,056 - INFO - Pipeline de datos se ejecuto correctamente
